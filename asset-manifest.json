@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fractis-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fractis-web/static/js/main.09b21ae5.chunk.js",
+    "main.js.map": "/fractis-web/static/js/main.09b21ae5.chunk.js.map",
+    "runtime-main.js": "/fractis-web/static/js/runtime-main.23d071b6.js",
+    "runtime-main.js.map": "/fractis-web/static/js/runtime-main.23d071b6.js.map",
+    "static/js/2.a4775359.chunk.js": "/fractis-web/static/js/2.a4775359.chunk.js",
+    "static/js/2.a4775359.chunk.js.map": "/fractis-web/static/js/2.a4775359.chunk.js.map",
+    "index.html": "/fractis-web/index.html",
+    "precache-manifest.63100451a59ff9c7e221701826e4bd0c.js": "/fractis-web/precache-manifest.63100451a59ff9c7e221701826e4bd0c.js",
+    "service-worker.js": "/fractis-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fractis-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a4775359.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.a4775359.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fractis-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23d071b6.js",
+    "static/js/2.a4775359.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.09b21ae5.chunk.js"
+  ]
+}
