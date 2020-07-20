@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/fractis-web/static/css/main.80f1b4bb.chunk.css",
-    "main.js": "/fractis-web/static/js/main.7d6ddb31.chunk.js",
-    "main.js.map": "/fractis-web/static/js/main.7d6ddb31.chunk.js.map",
+    "main.css": "/fractis-web/static/css/main.6334308c.chunk.css",
+    "main.js": "/fractis-web/static/js/main.3e00846d.chunk.js",
+    "main.js.map": "/fractis-web/static/js/main.3e00846d.chunk.js.map",
     "runtime-main.js": "/fractis-web/static/js/runtime-main.23d071b6.js",
     "runtime-main.js.map": "/fractis-web/static/js/runtime-main.23d071b6.js.map",
-    "static/js/2.ef4563ef.chunk.js": "/fractis-web/static/js/2.ef4563ef.chunk.js",
-    "static/js/2.ef4563ef.chunk.js.map": "/fractis-web/static/js/2.ef4563ef.chunk.js.map",
+    "static/js/2.279f85d5.chunk.js": "/fractis-web/static/js/2.279f85d5.chunk.js",
+    "static/js/2.279f85d5.chunk.js.map": "/fractis-web/static/js/2.279f85d5.chunk.js.map",
     "index.html": "/fractis-web/index.html",
-    "precache-manifest.fae059cc77dbe6344799c28ac4924a91.js": "/fractis-web/precache-manifest.fae059cc77dbe6344799c28ac4924a91.js",
+    "precache-manifest.f46ae845cad505e211b3b2ff39716f1d.js": "/fractis-web/precache-manifest.f46ae845cad505e211b3b2ff39716f1d.js",
     "service-worker.js": "/fractis-web/service-worker.js",
-    "static/css/main.80f1b4bb.chunk.css.map": "/fractis-web/static/css/main.80f1b4bb.chunk.css.map",
-    "static/js/2.ef4563ef.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.ef4563ef.chunk.js.LICENSE.txt",
+    "static/css/main.6334308c.chunk.css.map": "/fractis-web/static/css/main.6334308c.chunk.css.map",
+    "static/js/2.279f85d5.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.279f85d5.chunk.js.LICENSE.txt",
     "static/media/App_Icon_WithoutBackground.png": "/fractis-web/static/media/App_Icon_WithoutBackground.824a6c3b.png",
-    "static/media/Fractis_Writing.png": "/fractis-web/static/media/Fractis_Writing.86f54ebb.png"
+    "static/media/Fractis_Writing.png": "/fractis-web/static/media/Fractis_Writing.86f54ebb.png",
+    "static/media/TriangleRectangle_pt_2.png": "/fractis-web/static/media/TriangleRectangle_pt_2.62999a72.png",
+    "static/media/index.css": "/fractis-web/static/media/goodtimes-webfont.f22b1d50.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.23d071b6.js",
-    "static/js/2.ef4563ef.chunk.js",
-    "static/css/main.80f1b4bb.chunk.css",
-    "static/js/main.7d6ddb31.chunk.js"
+    "static/js/2.279f85d5.chunk.js",
+    "static/css/main.6334308c.chunk.css",
+    "static/js/main.3e00846d.chunk.js"
   ]
 }
