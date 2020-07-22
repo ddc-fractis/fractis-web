@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fractis-web/static/css/main.ebff56cd.chunk.css",
-    "main.js": "/fractis-web/static/js/main.c4043f50.chunk.js",
-    "main.js.map": "/fractis-web/static/js/main.c4043f50.chunk.js.map",
+    "main.css": "/fractis-web/static/css/main.11273cf6.chunk.css",
+    "main.js": "/fractis-web/static/js/main.9960de1b.chunk.js",
+    "main.js.map": "/fractis-web/static/js/main.9960de1b.chunk.js.map",
     "runtime-main.js": "/fractis-web/static/js/runtime-main.23d071b6.js",
     "runtime-main.js.map": "/fractis-web/static/js/runtime-main.23d071b6.js.map",
     "static/js/2.ab6bfcf3.chunk.js": "/fractis-web/static/js/2.ab6bfcf3.chunk.js",
     "static/js/2.ab6bfcf3.chunk.js.map": "/fractis-web/static/js/2.ab6bfcf3.chunk.js.map",
     "index.html": "/fractis-web/index.html",
-    "precache-manifest.4dc57c1df0ceb3ce85699b8000167d57.js": "/fractis-web/precache-manifest.4dc57c1df0ceb3ce85699b8000167d57.js",
+    "precache-manifest.dfafecb7a1885c05937c47938f6cbd0c.js": "/fractis-web/precache-manifest.dfafecb7a1885c05937c47938f6cbd0c.js",
     "service-worker.js": "/fractis-web/service-worker.js",
-    "static/css/main.ebff56cd.chunk.css.map": "/fractis-web/static/css/main.ebff56cd.chunk.css.map",
+    "static/css/main.11273cf6.chunk.css.map": "/fractis-web/static/css/main.11273cf6.chunk.css.map",
     "static/js/2.ab6bfcf3.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.ab6bfcf3.chunk.js.LICENSE.txt",
     "static/media/App_Icon_WithoutBackground.png": "/fractis-web/static/media/App_Icon_WithoutBackground.824a6c3b.png",
     "static/media/Fractis_Writing.png": "/fractis-web/static/media/Fractis_Writing.86f54ebb.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.23d071b6.js",
     "static/js/2.ab6bfcf3.chunk.js",
-    "static/css/main.ebff56cd.chunk.css",
-    "static/js/main.c4043f50.chunk.js"
+    "static/css/main.11273cf6.chunk.css",
+    "static/js/main.9960de1b.chunk.js"
   ]
 }
