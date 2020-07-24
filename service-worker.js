@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fractis-web/precache-manifest.dfafecb7a1885c05937c47938f6cbd0c.js"
+  "/fractis-web/precache-manifest.27a4adfc3367e67b3394e0e1bb093c71.js"
 );
 
 self.addEventListener('message', (event) => {
