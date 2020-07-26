@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e35b4d14a73d4110fe8c6908e78385fa",
+    "revision": "e1d4d6156a3814a001cd74fee97ceb01",
     "url": "/fractis-web/index.html"
   },
   {
