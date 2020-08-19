@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/fractis-web/static/css/main.3f2f9086.chunk.css",
-    "main.js": "/fractis-web/static/js/main.4b1c185a.chunk.js",
-    "main.js.map": "/fractis-web/static/js/main.4b1c185a.chunk.js.map",
+    "main.css": "/fractis-web/static/css/main.9a19b8df.chunk.css",
+    "main.js": "/fractis-web/static/js/main.245c5d22.chunk.js",
+    "main.js.map": "/fractis-web/static/js/main.245c5d22.chunk.js.map",
     "runtime-main.js": "/fractis-web/static/js/runtime-main.23d071b6.js",
     "runtime-main.js.map": "/fractis-web/static/js/runtime-main.23d071b6.js.map",
-    "static/js/2.ab6bfcf3.chunk.js": "/fractis-web/static/js/2.ab6bfcf3.chunk.js",
-    "static/js/2.ab6bfcf3.chunk.js.map": "/fractis-web/static/js/2.ab6bfcf3.chunk.js.map",
+    "static/js/2.e9305f4c.chunk.js": "/fractis-web/static/js/2.e9305f4c.chunk.js",
+    "static/js/2.e9305f4c.chunk.js.map": "/fractis-web/static/js/2.e9305f4c.chunk.js.map",
     "index.html": "/fractis-web/index.html",
-    "precache-manifest.c529435068005c9c3f0a69c0ef739da7.js": "/fractis-web/precache-manifest.c529435068005c9c3f0a69c0ef739da7.js",
+    "precache-manifest.b499de6048ec8a71914ab3a8745f38c3.js": "/fractis-web/precache-manifest.b499de6048ec8a71914ab3a8745f38c3.js",
     "service-worker.js": "/fractis-web/service-worker.js",
-    "static/css/main.3f2f9086.chunk.css.map": "/fractis-web/static/css/main.3f2f9086.chunk.css.map",
-    "static/js/2.ab6bfcf3.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.ab6bfcf3.chunk.js.LICENSE.txt",
+    "static/css/main.9a19b8df.chunk.css.map": "/fractis-web/static/css/main.9a19b8df.chunk.css.map",
+    "static/js/2.e9305f4c.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.e9305f4c.chunk.js.LICENSE.txt",
     "static/media/App_Icon_WithoutBackground.png": "/fractis-web/static/media/App_Icon_WithoutBackground.824a6c3b.png",
     "static/media/Fractis_Writing.png": "/fractis-web/static/media/Fractis_Writing.86f54ebb.png",
-    "static/media/index.css": "/fractis-web/static/media/goodtimes-webfont.f22b1d50.woff"
+    "static/media/appleappstore.png": "/fractis-web/static/media/appleappstore.b8647071.png",
+    "static/media/index.css": "/fractis-web/static/media/goodtimes-webfont.f22b1d50.woff",
+    "static/media/googleplay.png": "/fractis-web/static/media/googleplay.9ae07fad.png"
   },
   "entrypoints": [
     "static/js/runtime-main.23d071b6.js",
-    "static/js/2.ab6bfcf3.chunk.js",
-    "static/css/main.3f2f9086.chunk.css",
-    "static/js/main.4b1c185a.chunk.js"
+    "static/js/2.e9305f4c.chunk.js",
+    "static/css/main.9a19b8df.chunk.css",
+    "static/js/main.245c5d22.chunk.js"
   ]
 }
