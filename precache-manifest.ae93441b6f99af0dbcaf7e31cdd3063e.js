@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea5cacdc36de232fb3de0a29674006cf",
+    "revision": "46ecdff179d77457cd18421eb7052088",
     "url": "/fractis-web/index.html"
   },
   {
-    "revision": "f19d0763633f769859a8",
-    "url": "/fractis-web/static/css/main.bd71ea10.chunk.css"
+    "revision": "3e6d44b354b93420e85d",
+    "url": "/fractis-web/static/css/main.4242e6de.chunk.css"
   },
   {
     "revision": "0de1c22e79a6d4995822",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fractis-web/static/js/2.e9305f4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f19d0763633f769859a8",
-    "url": "/fractis-web/static/js/main.245c5d22.chunk.js"
+    "revision": "3e6d44b354b93420e85d",
+    "url": "/fractis-web/static/js/main.387bcb24.chunk.js"
   },
   {
     "revision": "f7817fb36705a9466b4f",
