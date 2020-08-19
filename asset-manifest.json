@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fractis-web/static/css/main.57913dea.chunk.css",
-    "main.js": "/fractis-web/static/js/main.5c28d281.chunk.js",
-    "main.js.map": "/fractis-web/static/js/main.5c28d281.chunk.js.map",
+    "main.js": "/fractis-web/static/js/main.d3ffe115.chunk.js",
+    "main.js.map": "/fractis-web/static/js/main.d3ffe115.chunk.js.map",
     "runtime-main.js": "/fractis-web/static/js/runtime-main.23d071b6.js",
     "runtime-main.js.map": "/fractis-web/static/js/runtime-main.23d071b6.js.map",
     "static/js/2.e9305f4c.chunk.js": "/fractis-web/static/js/2.e9305f4c.chunk.js",
     "static/js/2.e9305f4c.chunk.js.map": "/fractis-web/static/js/2.e9305f4c.chunk.js.map",
     "index.html": "/fractis-web/index.html",
-    "precache-manifest.4903efc41b6dc2a8726135bdf0c1e585.js": "/fractis-web/precache-manifest.4903efc41b6dc2a8726135bdf0c1e585.js",
+    "precache-manifest.5e9b2a039e3956cb7fb4d847b6bf3cfc.js": "/fractis-web/precache-manifest.5e9b2a039e3956cb7fb4d847b6bf3cfc.js",
     "service-worker.js": "/fractis-web/service-worker.js",
     "static/css/main.57913dea.chunk.css.map": "/fractis-web/static/css/main.57913dea.chunk.css.map",
     "static/js/2.e9305f4c.chunk.js.LICENSE.txt": "/fractis-web/static/js/2.e9305f4c.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.23d071b6.js",
     "static/js/2.e9305f4c.chunk.js",
     "static/css/main.57913dea.chunk.css",
-    "static/js/main.5c28d281.chunk.js"
+    "static/js/main.d3ffe115.chunk.js"
   ]
 }
