@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9591b5ca0f58d90c360fb4d8a2ff5b23",
+    "revision": "a434267c9afd1eca388bf5caac713a6d",
     "url": "/fractis-web/index.html"
   },
   {
-    "revision": "8c698bc19bafb0b06c09",
+    "revision": "d4026b799ef8e8321318",
     "url": "/fractis-web/static/css/main.57913dea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fractis-web/static/js/2.e9305f4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c698bc19bafb0b06c09",
-    "url": "/fractis-web/static/js/main.f5c950ad.chunk.js"
+    "revision": "d4026b799ef8e8321318",
+    "url": "/fractis-web/static/js/main.5c28d281.chunk.js"
   },
   {
     "revision": "f7817fb36705a9466b4f",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fractis-web/static/media/Fractis_Writing.86f54ebb.png"
   },
   {
-    "revision": "b864707140db30abb3c74ed96d16b866",
-    "url": "/fractis-web/static/media/appleappstore.b8647071.png"
+    "revision": "874cec14efecab371f7d02dddf008a0b",
+    "url": "/fractis-web/static/media/appleappstore.874cec14.png"
   },
   {
     "revision": "b67c23cc47f12b62e69bd703c7d53d1d",
