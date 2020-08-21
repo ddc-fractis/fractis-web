@@ -48,7 +48,7 @@ export default class App extends Component<{},State> {
   render() {
     return (
       <div className="wrapper">
-      <div className="navigation">
+        <div className="navigation">
         <img 
           onClick={this.onClickHome} 
           className="navigation-item app-logo" 
